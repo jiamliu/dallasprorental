@@ -18,7 +18,7 @@ Our full-stack application leverages the power of Django REST framework for robu
 
 <hr>
 
-#ERD (Entity Relationship Diagram)
+# ERD (Entity Relationship Diagram)
 
 <div align="center">
   <img src="https://github.com/jiamliu/dallasprorental/assets/139939637/c512430d-3401-4b1c-9bf5-a86fb1f0c3f3" alt="ERD Diagram" width="600" />
