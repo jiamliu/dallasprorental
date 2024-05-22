@@ -13,7 +13,7 @@ Our full-stack application leverages the power of Django REST framework for robu
 </div>
 
 <div align="center">
-  Our project utilizes a diverse tech stack to deliver a seamless car rental experience.
+  This website utilizes a diverse tech stack to deliver a seamless car rental experience.
 </div>
 
 <hr>
