@@ -79,7 +79,16 @@ This website includes multiple functionalities.
 ## Simple Booking Page
 ![simplebooking](https://github.com/jiamliu/dallasprorental/assets/139939637/818de23c-61dd-4674-a567-0fdd17886e93)
 
+## Server Side Showcase
 
+### Django Customer Admin Vehicle Management
+![backend car management](https://github.com/jiamliu/dallasprorental/assets/139939637/7bd9b7d6-39ca-4c82-8142-fcfb381b8209)
+
+### Django Customer Management
+![backend client management](https://github.com/jiamliu/dallasprorental/assets/139939637/ab2b9bd9-a166-4cef-ab93-9ef1e8f69335)
+
+### Django Booking Management
+![backend booking management](https://github.com/jiamliu/dallasprorental/assets/139939637/3ecbb06f-c0d7-4e43-8d05-90ad5fb08aee)
 
 
 
