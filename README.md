@@ -42,3 +42,66 @@ This website includes multiple functionalities.
 <div align="center">
   <img src="https://github.com/jiamliu/dallasprorental/assets/139939637/c512430d-3401-4b1c-9bf5-a86fb1f0c3f3" alt="ERD Diagram" width="600" />
 </div>
+
+# Webpages Showcase
+
+<div style="overflow: hidden; width: 100%;">
+    <div style="display: flex; justify-content: flex-start; animation: scroll 20s linear infinite;">
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/page1.png?raw=true" alt="Image 1" style="width: 200px; height: auto;">
+        <div>Landing Page Dark Mode</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/page1light.png?raw=true" alt="Image 2" style="width: 200px; height: auto;">
+        <div>Landing Page Regular Mode</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/page2.png?raw=true" alt="Image 3" style="width: 200px; height: auto;">
+        <div>About Us and Testimonial</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/page3.png?raw=true" alt="Image 4" style="width: 200px; height: auto;">
+        <div>Inventory Button and Review</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/page4.png?raw=true" alt="Image 5" style="width: 200px; height: auto;">
+        <div>Submit Unused Car, and Footer with Google Map Connection</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/submitcar.png?raw=true" alt="Image 11" style="width: 200px; height: auto;">
+        <div>Submit Unused Car main</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/careerpage.png?raw=true" alt="Image 6" style="width: 200px; height: auto;">
+        <div>Career</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/carlistdetail.png?raw=true" alt="Image 7" style="width: 200px; height: auto;">
+        <div>Inventory List with Sorting Function</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/cardetail1.png?raw=true" alt="Image 8" style="width: 200px; height: auto;">
+        <div>Single Car Detail Showcase</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/leadtorentpage.png?raw=true" alt="Image 9" style="width: 200px; height: auto;">
+        <div>Single Car Detail Showcase with Image Scroll, Vehicle Highlights, and Simple Booking Function</div>
+      </div>
+      <div style="text-align: center; margin-right: 10px;">
+        <img src="https://github.com/jiamliu/dallasprorental/blob/master/simplebooking.png?raw=true" alt="Image 10" style="width: 200px; height: auto;">
+        <div>Simple Booking Page</div>
+      </div>
+    </div>
+  </div>
+  
+  <style>
+    @keyframes scroll {
+      0% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+  </style>
+  
