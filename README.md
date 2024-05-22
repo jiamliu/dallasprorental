@@ -1,6 +1,6 @@
 # Overview
 
-Dallas Pro Rental is an car rental company that is owned by my family, and as one of the few all-star Turo hosts in DFW (Dallas/Fort Worth) , as well as Atlanta, GA area, I believe a professionally sounded website is necessary to help the business grow. And as a full-stack software developer, this is a great opportunity to demonstrate my skillset. So here we are!
+Dallas Pro Rental is a car rental company that is owned by my family, and as one of the few all-star Turo hosts in DFW (Dallas/Fort Worth) , as well as Atlanta, GA area, I believe a professionally sounded website is necessary to help the business grow. And as a full-stack software developer, this is a great opportunity to demonstrate my skillset. So here we are!
 
 This full-stack application leverages the power of Django REST framework for robust backend functionality and React.JS for a dynamic and responsive frontend. Experience seamless booking, managing rentals, and exploring our diverse fleet of vehicles with ease, all through our cutting-edge technology stack.
 
