@@ -1,8 +1,8 @@
 # Overview
 
-Dallas Pro Rental is an auto company that is owned by my family, and as one of the few all-star Turo host in DFW (Dallas/Fort Worth) area, I believe a professionally sounded website is necessary to help the business grow. So here we are!
+Dallas Pro Rental is an car rental company that is owned by my family, and as one of the few all-star Turo hosts in DFW (Dallas/Fort Worth) , as well as Atlanta, GA area, I believe a professionally sounded website is necessary to help the business grow. And as a full-stack software developer, this is a great opportunity to demonstrate my skillset. So here we are!
 
-Our full-stack application leverages the power of Django REST framework for robust backend functionality and React for a dynamic and responsive frontend. Experience seamless booking, managing rentals, and exploring our diverse fleet of vehicles with ease, all through our cutting-edge technology stack.
+Our full-stack application leverages the power of Django REST framework for robust backend functionality and React.JS for a dynamic and responsive frontend. Experience seamless booking, managing rentals, and exploring our diverse fleet of vehicles with ease, all through our cutting-edge technology stack.
 
 # Tech Stack Used
 
@@ -17,3 +17,73 @@ Our full-stack application leverages the power of Django REST framework for robu
 </div>
 
 <hr>
+
+#ERD (Entity Relationship Diagram)
+
+title Dallas Pro Rental
+CustomUser [icon: user, color: yellow]{
+  id string pk
+  username string
+  email string
+  age integer
+}
+Car [icon: car, color: blue]{
+  id string pk
+  year integer
+  make string
+  model string
+  vin string
+  license_plate string
+  owner_name string
+  owner_contact string
+  description string
+  price decimal
+  type string
+  seats integer
+  cylinder integer
+  drivetrain string
+  pet_friendly boolean
+  child_seat boolean
+  zero_to_sixty string
+  fuel_consumption string
+  option_camera string
+  option_navigation string
+  option_carplay string
+  option_blindspot string
+  option_parkingassist string
+  option_sunroof string
+  option_heatcoolseat string
+  option_keyless string
+}
+CarPhoto [icon: image, color: green]{
+  id string pk
+  photo string
+}
+RentalInfo [icon: clipboard, color: red]{
+  id string pk
+  user_id string fk
+  car_id string fk
+  first_name string
+  last_name string
+  driver_license string
+  driver_state string
+  driver_address string
+  phone_number string
+  email string
+  pick_up_date date
+  pick_up_time time
+  drop_off_date date
+  drop_off_time time
+  location string
+  rental_days integer
+  daily_rate decimal
+  insurance_rate decimal
+  credit_card_number integer
+  billing_address string
+  expire_date date
+  security_number integer
+}
+// End of tables
+RentalInfo.user > CustomUser.id
+CarPhoto.car > Car.id
+RentalInfo.car > Car.id
