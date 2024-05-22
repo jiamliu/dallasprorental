@@ -45,71 +45,44 @@ This website includes multiple functionalities.
 
 # Webpages Showcase
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/page1.png?raw=true" alt="Landing Page Dark Mode" style="max-width: 100%; height: auto;">
-    <div>Landing Page Dark Mode</div>
-  </div>
+## Landing Page Dark Mode
+![page1](https://github.com/jiamliu/dallasprorental/assets/139939637/9cfa944d-1904-4b9e-9776-0717527885c4)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/page1light.png?raw=true" alt="Landing Page Regular Mode" style="max-width: 100%; height: auto;">
-    <div>Landing Page Regular Mode</div>
-  </div>
+## Landing Page Light Mode
+![page1light](https://github.com/jiamliu/dallasprorental/assets/139939637/c95371f7-d667-4c73-a045-89f4df2c7770)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/page2.png?raw=true" alt="About Us and Testimonial" style="max-width: 100%; height: auto;">
-    <div>About Us and Testimonial</div>
-  </div>
+## Company Profile and Company Goal
+![page2](https://github.com/jiamliu/dallasprorental/assets/139939637/ab6a2364-a7fd-4321-8fc5-548db2cdd587)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/page3.png?raw=true" alt="Inventory Button and Review" style="max-width: 100%; height: auto;">
-    <div>Inventory Button and Review</div>
-  </div>
+## See Inventory and Customer Review
+![page3](https://github.com/jiamliu/dallasprorental/assets/139939637/2d4b2f6f-1be2-4e12-85af-ff3f5724ff28)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/page4.png?raw=true" alt="Submit Unused Car, and Footer with Google Map Connection" style="max-width: 100%; height: auto;">
-    <div>Submit Unused Car, and Footer with Google Map Connection</div>
-  </div>
+## Submit Unused Cars to Earn Passive Income, and Footer with Google Map Connection
+![page4](https://github.com/jiamliu/dallasprorental/assets/139939637/b19e9c66-4800-426e-b4e5-64535a8cadfe)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/submitcar.png?raw=true" alt="Submit Unused Car main" style="max-width: 100%; height: auto;">
-    <div>Submit Unused Car main</div>
-  </div>
+## Career Page
+![careerpage](https://github.com/jiamliu/dallasprorental/assets/139939637/47b757e9-9286-42d4-94d7-4a3bb36f50df)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/careerpage.png?raw=true" alt="Career" style="max-width: 100%; height: auto;">
-    <div>Career</div>
-  </div>
+## Submit Unused Car Field
+![submitcar](https://github.com/jiamliu/dallasprorental/assets/139939637/27484324-b59d-4fcb-afce-cfba5845b5f6)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/carlistdetail.png?raw=true" alt="Inventory List with Sorting Function" style="max-width: 100%; height: auto;">
-    <div>Inventory List with Sorting Function</div>
-  </div>
+## Inventory List with Sorting Functionalities
+![carlistdetail](https://github.com/jiamliu/dallasprorental/assets/139939637/68148fbe-e184-4310-b42c-8aeaa1ffe1ff)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/cardetail1.png?raw=true" alt="Single Car Detail Showcase" style="max-width: 100%; height: auto;">
-    <div>Single Car Detail Showcase</div>
-  </div>
+## Car Detail pages
+### Car Landing Page
+![cardetail1](https://github.com/jiamliu/dallasprorental/assets/139939637/66027c05-37f5-4d02-bf56-c9c00e35a2a8)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/leadtorentpage.png?raw=true" alt="Single Car Detail Showcase with Image Scroll, Vehicle Highlights, and Simple Booking Function" style="max-width: 100%; height: auto;">
-    <div>Single Car Detail Showcase with Image Scroll, Vehicle Highlights, and Simple Booking Function</div>
-  </div>
+### Car Detail Pages with Image Scroll Functions, Car Details, and Floating Booking Section
+![leadtorentpage](https://github.com/jiamliu/dallasprorental/assets/139939637/0f455dda-e06a-46be-9980-ba3c91052f05)
 
-  
-  <div style="text-align: center; margin: 20px;">
-    <img src="https://github.com/jiamliu/dallasprorental/blob/master/simplebooking.png?raw=true" alt="Simple Booking Page" style="max-width: 100%; height: auto;">
-    <div>Simple Booking Page</div>
-  </div>
-</div>
+## Simple Booking Page
+![simplebooking](https://github.com/jiamliu/dallasprorental/assets/139939637/818de23c-61dd-4674-a567-0fdd17886e93)
+
+
+
+
+
+
 
 
