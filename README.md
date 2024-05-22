@@ -90,6 +90,10 @@ This website includes multiple functionalities.
 ### Django Booking Management
 ![backend booking management](https://github.com/jiamliu/dallasprorental/assets/139939637/3ecbb06f-c0d7-4e43-8d05-90ad5fb08aee)
 
+# Contributing
+
+I welcome contributions from everyone! Whether you're fixing a bug, adding a new feature, or improving documentation, your help is highly appreciated.
+
 
 
 
