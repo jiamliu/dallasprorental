@@ -2,6 +2,8 @@
 
 Dallas Pro Rental is an auto company that is owned by my family, and as one of the few all-star Turo host in DFW (Dallas/Fort Worth) area, I believe a professionally sounded website is necessary to help the business grow. So here we are!
 
+Our full-stack application leverages the power of Django REST framework for robust backend functionality and React for a dynamic and responsive frontend. Experience seamless booking, managing rentals, and exploring our diverse fleet of vehicles with ease, all through our cutting-edge technology stack.
+
 # Tech Stack Used
 
 <div align="center">
